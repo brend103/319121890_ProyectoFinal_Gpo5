@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\lesli\iCloudDrive\UNIVERSIDAD\8 semestre\Computación Gráfica\PROYECTOS\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\lesli\iCloudDrive\UNIVERSIDAD\8 semestre\Computación Gráfica\PROYECTOS\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\lesli\iCloudDrive\UNIVERSIDAD\8 semestre\Computación Gráfica\PROYECTOS\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\main.cpp(192,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\lesli\iCloudDrive\UNIVERSIDAD\8 semestre\Computación Gráfica\PROYECTOS\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\main.cpp(194,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  Proyecto-CGeIHC-2025-2.vcxproj -> C:\Users\lesli\iCloudDrive\UNIVERSIDAD\8 semestre\Computación Gráfica\PROYECTOS\Proyecto-CGeIHC-2025-2\Proyecto-CGeIHC-2025-2\Debug\Proyecto-CGeIHC-2025-2.exe
