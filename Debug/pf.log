@@ -1,26 +1,70 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (Proyecto-CGeIHC-2025-2.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
-  Window.cpp
+  Camera.cpp
+  DirectionalLight.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\DirectionalLight.cpp(18,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\DirectionalLight.cpp(19,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\DirectionalLight.cpp(21,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\DirectionalLight.cpp(22,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  Light.cpp
   main.cpp
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-  (compilando archivo de origen "Window.cpp")
-  
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
-  (compilando archivo de origen "Window.cpp")
-  
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(139,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(140,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(144,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(145,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(147,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(148,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(11,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
   (compilando archivo de origen "main.cpp")
   
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(12,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
   (compilando archivo de origen "main.cpp")
   
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\main.cpp(586,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\main.cpp(588,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\main.cpp(601,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\main.cpp(603,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Material.cpp
+  Mesh_tn.cpp
+  Model.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(16,88): warning C4474: "printf": se pasaron demasiados argumentos para la cadena de formato
+      C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(16,88):
+      los marcadores de posición y sus parámetros esperan 1 argumentos variádicos, pero se proporcionaron 2
+  
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(51,7): warning C4804: '<': uso no seguro del tipo 'bool' en la operación
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(51,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(138,14): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Model.cpp(147,14): warning C4477: 'printf' : la cadena de formato '%s' requiere un argumento de tipo 'char *', pero el argumento variádico 1 tiene el tipo 'std::string'
+  PointLight.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(28,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(29,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(30,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(32,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(33,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(34,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\PointLight.cpp(35,14): warning C4244: 'argumento': conversión de 'GLfloat' a 'GLint'; posible pérdida de datos
+  Shader_light.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(215,75): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(215,26): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(214,91): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(214,42): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(228,98): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(228,62): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(228,24): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(227,70): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(227,24): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(226,88): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Shader_light.cpp(226,42): warning C4244: 'argumento': conversión de 'GLuint' a 'GLfloat'; posible pérdida de datos
+  Skybox.cpp
+  Sphere.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Sphere.cpp(39,13): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Sphere.cpp(43,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  SpotLight.cpp
+  Texture.cpp
+  Window.cpp
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(11,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.h(12,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "Window.cpp")
+  
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(214,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(215,22): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(219,28): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(220,40): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(222,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(223,21): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
   Generando código...
-C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(75,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
-  pf.vcxproj -> C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\Debug\pf.exe
+C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\pf\Window.cpp(77,1): warning C4715: 'Window::Initialise': no todas las rutas de acceso de control devuelven un valor
+LINK : fatal error LNK1104: no se puede abrir el archivo 'C:\Users\Brend\OneDrive\Documentos\BRENDA\Compu grafica\Lab CGeIHC\Debug\pf.exe'
